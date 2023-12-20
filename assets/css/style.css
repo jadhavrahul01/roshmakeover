@@ -1879,7 +1879,7 @@ button.navbar-toggler:focus {
   font-size: 1.7rem;
 }
 .regular-chart ul li {
-  width: 90%;
+  width: 100%;
   display: flex;
   justify-content: space-between;
   color: white;
@@ -4130,4 +4130,8 @@ body.rtl-mode .price-wrapper {
     width: 130px;
     padding: 15px 0;
   }
+  .chng-padding{
+    padding-left: 20px;
+  }
+ 
 }
